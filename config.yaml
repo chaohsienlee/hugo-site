@@ -13,7 +13,7 @@ theme: hugo-refresh
 
 # Option to specify the default language of the theme
 # I.e., the landing language of your root 
-DefaultContentLanguage: ch
+DefaultContentLanguage: zh
 
 ## Option to disable additional language in your site.
 # disableLanguages: ["ru"]
@@ -58,7 +58,7 @@ params:
   summary:
     # option to specify the default image in the summary list
     # the starting folder is configure in "assetDir" of this file
-    defaultImage : "/images/default_summary.jpg"
+    defaultImage : "/images/summary_default.png"
   
   # loading options
   loading:
@@ -159,7 +159,7 @@ params:
 ################## multilanguage support options ##################
 ###################################################################
 languages:
-  ch:
+  zh:
     languageName:       Chinese
     weight:             1
   en:
