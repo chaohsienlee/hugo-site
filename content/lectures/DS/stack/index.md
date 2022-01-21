@@ -4,7 +4,7 @@ date: 2022-01-20T07:22:02+08:00
 draft: true
 hideLastModified: true
 summary: "Stack, LIFO, top, push, pop"
-summaryImage: "summary.png"
+summaryImage: "summary_ds.png"
 tags: ["data structure", "linear"]
 ---
 
