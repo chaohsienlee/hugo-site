@@ -102,7 +102,7 @@ params:
   homepage:
     # this options let you specify if you want a link to the homepage
     # it can be: "none", "menu", "footer" or "menu+footer"
-    # linkPosition: "footer" 
+    linkPosition: "footer" 
     # this options let you specify the text of the link to the homepage
     # linkText: "Homepage"  
     # option to specify the title in the homepage
@@ -176,6 +176,7 @@ languages:
         subtitle: NESL @ Taipei Tech
         image: "/images/avataaars.png" # worker.svg 
         imageWidth: 500px
+        linkPosition: "footer"
       
       # Some sub-parameters of the "footer" parameter
       # can be omitted because the code allows for them to be 
