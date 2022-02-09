@@ -18,11 +18,11 @@ showInMenu: true
 ### 開授課程
 * (C / Java)程式設計
 * 資料結構
-* 電腦網路
+* 電腦網路 / TCP/IP
 * 網頁(Web)程式設計
-* 智慧型裝置(Android / Microsoft)程式設計
+* 智慧型裝置(Android / Microsoft WPF)程式設計
 * 演算法
-* (Linux)作業系統 
+* (Linux)作業系統
 * 異質多網多媒體服務
 * 智慧整合感控系統概論 / 物聯網創新應用
 
